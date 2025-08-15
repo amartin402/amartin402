@@ -1,6 +1,4 @@
-<p align="center">
-Showcasing skills and tools used to transform data into actionable business intelligence.
-</p>
+<h3 align="center">Showcasing skills and tools used to transform data into actionable business intelligence.</h3>
 <div>
 <p align="center">
     <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads/" target="_blank" rel="noreferrer"> <img
@@ -19,3 +17,4 @@ Showcasing skills and tools used to transform data into actionable business inte
             src="https://github.com/amartin402/github-icons/blob/main/python-original.svg"
             title="Python" alt="Python" width="60" height="60" /> </a>
 </div>
+
